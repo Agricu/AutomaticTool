@@ -1,5 +1,14 @@
-# WHC_ModelFactory iOS开发高效辅助工具！(Version:1.9.0)
+# iOS开发高效辅助工具！OC版MJExtension自动转换版本，自动JSON转模型工具
+此版本为修改版本
+修改模型支持为MJExtension，只适合OC，Swift版本请自行修改
+# 修改功能：
+取消地址表明
+取消Coding协议遵守
+优化代码
+修改为MJExtension模型支持
 
+
+# 以下信息为原作者标明：[原Git地址](https://github.com/netyouli/WHC_DataModelFactory)
 简介
 ==============
 - **高效**: 自动把json或者xml字符串自动生成模型类文件内容
@@ -12,7 +21,7 @@
 
 [web版](https://github.com/netyouli/jsonToClass)
 
-[我的个人网站: www.wuhaichao.com](http://www.wuhaichao.com/)
+[个人网站: www.wuhaichao.com](http://www.wuhaichao.com/)
 
 更新：**生成SexyJson模型类支持<<<格式对齐**
 
@@ -23,16 +32,6 @@
 
 * Objective-C
 <img src = "https://github.com/netyouli/WHC_DataModelFactory/blob/master/WHC_DataModelFactory/images/oc.png">
-
-子库
-==============
-* 本mac工具对应的亲儿子库OC: [WHC_Model](https://github.com/netyouli/WHC_Model)
-* 本mac工具对应的亲儿子库Swift: [SexyJson](https://github.com/netyouli/SexyJson)
-
-推荐
-==============
-* iOS平台最强大Sqlite库: [ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit)
-* iOS平台最好用自动布局库: [AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit)
 
 使用
 ==============
