@@ -1,18 +1,19 @@
 # iOS开发高效辅助工具！OC版MJExtension自动转换版本，自动JSON转模型工具
-此版本为修改版本
-修改模型支持为MJExtension，只适合OC，Swift版本请自行修改
-# 修改功能：
-取消地址\n
-取消Coding协议遵守
-优化代码
-修改为MJExtension模型支持
-修改应用名称为AutomaticTool
-修改应用图标
+- **此版本为修改版本**
+- **修改模型支持为MJExtension，只适合OC，Swift版本请自行修改**
+
+修改功能：
+==============
+- **取消地址**
+- **取消Coding协议遵守**
+- **优化代码**
+- **修改为MJExtension模型支持**
+- **修改应用名称为AutomaticTool**
+- **修改应用图标** 
 
 
 #### 以下信息为原作者标明：[原Git地址](https://github.com/netyouli/WHC_DataModelFactory)
 简介
-==============
 - **高效**: 自动把json或者xml字符串自动生成模型类文件内容
 - **准确**: 避免手工创建模型类的麻烦和高错误率（提高开发效率）
 - **处理**: 自动生成类名称首字符大写属性名首字母小写
@@ -27,8 +28,7 @@
 
 更新：**生成SexyJson模型类支持<<<格式对齐**
 
-效果
-==============
+效果 
 * Swift
 <img src = "https://github.com/netyouli/WHC_DataModelFactory/blob/master/WHC_DataModelFactory/images/swift.png">
 
