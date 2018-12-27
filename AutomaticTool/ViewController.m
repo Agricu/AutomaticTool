@@ -157,7 +157,7 @@ typedef enum : NSUInteger {
     [value appendString:[dateStr componentsSeparatedByString:@"-"].firstObject];
     [value appendString:@" AutomaticTool\n  * Auto-generated: "];
     [value appendString:dateStr];
-//    [value appendString:@"\n  *\n"];
+    [value appendString:@"\n"];
 //    [value appendString:@"  * @author netyouli (whc)\n"];
 //    [value appendString:@"  * @website http://wuhaichao.com\n"];
 //    [value appendString:@"  * @github https://github.com/netyouli\n  */\n\n\n"];
