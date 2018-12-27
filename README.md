@@ -10,9 +10,11 @@
 - **修改为MJExtension模型支持**
 - **修改应用名称为AutomaticTool**
 - **修改应用图标** 
+- **修改背景颜色(因为会看瞎)** 
+- **修改应用图标颜色**  
 
 
-#### 以下信息为原作者标明：[原Git地址](https://github.com/netyouli/WHC_DataModelFactory)
+#### 以下信息为原作者提供：[Git地址](https://github.com/netyouli/WHC_DataModelFactory)
 简介
 - **高效**: 自动把json或者xml字符串自动生成模型类文件内容
 - **准确**: 避免手工创建模型类的麻烦和高错误率（提高开发效率）
