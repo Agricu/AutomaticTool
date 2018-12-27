@@ -56,4 +56,4 @@
 #### Licenses
 All source code is licensed under the MIT License.
 
-如果侵害了您的权利请与我联系我会删除相关代码。
+如果侵害了您的权利请与我联系，我会删除相关代码。
