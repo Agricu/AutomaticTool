@@ -2,7 +2,7 @@
 此版本为修改版本
 修改模型支持为MJExtension，只适合OC，Swift版本请自行修改
 # 修改功能：
-取消地址
+取消地址\n
 取消Coding协议遵守
 优化代码
 修改为MJExtension模型支持
