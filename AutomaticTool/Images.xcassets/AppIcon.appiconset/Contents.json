@@ -1,0 +1,68 @@
+{
+  "images" : [
+    {
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacMicro_16pt.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacMicro_16pt@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacSmall_32pt.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacSmall_32pt@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacMedium_128pt.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacMedium_128pt@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacLarge_256pt.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacLarge_256pt@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacHuge_512pt.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "01668a559b389132f87598b527f2f5.png@1280w_1l_2o_100shMacHuge_512pt@2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
