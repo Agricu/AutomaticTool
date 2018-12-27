@@ -1,3 +1,4 @@
+<img src = "https://github.com/farmerly/AutomaticTool/blob/master/icons.png">
 # iOS开发高效辅助工具！OC版MJExtension自动转换版本，自动JSON转模型工具
 - **此版本为修改版本**
 - **修改模型支持为MJExtension，只适合OC，Swift版本请自行修改**
@@ -12,6 +13,11 @@
 - **修改应用图标** 
 - **修改背景颜色(因为会看瞎)** 
 - **修改应用图标颜色**  
+
+效果 
+==============
+<img src = "https://github.com/farmerly/AutomaticTool/blob/master/page.png">
+<img src = "https://github.com/farmerly/AutomaticTool/blob/master/Example.png">
 
 
 #### 以下信息为原作者提供：[Git地址](https://github.com/netyouli/WHC_DataModelFactory)
